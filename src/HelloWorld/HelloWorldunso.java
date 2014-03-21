@@ -5,6 +5,6 @@ public class HelloWorldunso {
 		System.out.println("Hallo Arian");
 	}
 	public static void helloWorld2(){
-		System.out.println("Hallo Mondfinsternis");
+		System.out.println("Hallo Mondfinsternis thomas");
 	}
 }
